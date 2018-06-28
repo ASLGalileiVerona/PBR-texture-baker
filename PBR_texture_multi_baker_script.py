@@ -21,7 +21,7 @@ bl_info = {
     'blender': (2, 7, 9),
     'location': 'Properties > Render > PBR Texture Multi Baker',
     'warning': 'While baking blender will freeze',
-    'wiki_url': '---Link video---',
+    'wiki_url': 'https://github.com/ASLGalileiVerona/PBR-texture-baker',
     'tracker_url': 'https://github.com/ASLGalileiVerona/PBR-texture-baker/issues',
     'link': 'https://github.com/ASLGalileiVerona/PBR-texture-baker',
     'support': 'COMMUNITY',
